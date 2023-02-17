@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.button {
+  background-color: #0967d2;
+  color: white;
+  border-radius: 5px;
+  border-width: 0px;
+  height: 30px;
+  width: 100px;
+}
+.heading {
+  color: #1e293b;
+  font-size: 60px;
+  font-family: roboto;
+}
+.text {
+  color: #64748b;
+  font-family: roboto;
+  font-size: 20px;
+}
+.home-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 35px;
+}
+.content-tab {
+  width: 45%;
+}
+.home-image {
+  width: 500px;
+  height: 500px;
+}

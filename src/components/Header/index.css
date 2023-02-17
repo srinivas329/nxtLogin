@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.nav-logo {
+  width: 130px;
+  height: 30px;
+  margin-left: 40px;
+}
+.list-item {
+  list-style-type: none;
+  margin: 20px;
+  font-family: roboto;
+}
+.ul-list {
+  padding: 0px;
+  display: flex;
+  margin-right: 40px;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logout-btn {
+  background-color: #0967d2;
+  color: white;
+  width: fit-content;
+  border-width: 0px;
+  border-radius: 5px;
+  height: 25px;
+}
